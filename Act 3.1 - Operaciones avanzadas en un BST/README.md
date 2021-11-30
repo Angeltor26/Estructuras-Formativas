@@ -1,9 +1,9 @@
 **Análisis de complejidad**
 
-Insertion: La complejidad es lineal de O(n)
+visit: La complejidad es lineal de O(n)
 
-Search: La complejidad es lineal de O(n)
-
-Update: La complejidad es lineal de O(n)
-
-DeleteAt: La complejidad es lineal O(n)
+height: La complejidad es lineal de  O(n)
+  
+ancestor: La complejidad es lineal de  de O(n)
+  
+whatlevelamI: La complejidad es lineal de  O(n)
